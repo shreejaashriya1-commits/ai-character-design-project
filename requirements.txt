@@ -1,0 +1,10 @@
+transformers
+accelerate
+diffusers
+sentencepiece
+torch
+torchvision
+graphviz
+networkx
+matplotlib
+Pillow
